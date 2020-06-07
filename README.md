@@ -1,4 +1,4 @@
-# Hillshade-5m-West
+# Hillshade-5m
 
 Demo: https://geoffrowland.github.io/Hillshade-5m/
 
